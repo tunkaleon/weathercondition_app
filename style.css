@@ -107,7 +107,9 @@ h1{
     width: calc(100% /5);
     padding: 16px 15px;
 }
-
+.current-weather .icon{
+    text-align: center;
+}
 .weather-cards .card img{
     max-width: 70px;
     margin: 5px 0 -12px 0;
